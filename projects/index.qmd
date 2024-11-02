@@ -1,0 +1,15 @@
+---
+title: Projects
+---
+
+## Rotations
+
+-   Investigating interaction between haptoglobin structural variant and APOE alleles on Alzheimer's Disease in the Amish Community (Haines Lab)
+
+-   Family GWAS and literature review (Zhu Lab)
+
+------------------------------------------------------------------------
+
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
