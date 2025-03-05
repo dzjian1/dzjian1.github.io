@@ -1,0 +1,40 @@
+---
+title: "Scientific Insights and Blog"
+---
+
+## Reflections on *How To Be A Modern Scientist by Jeff Leek*
+
+In reading Jeff Leek's *How To Be A Modern Scientist*, one can be exposed to many practical tips and advice on navigating a scientific career. As a PhD student and a junior scientist, this easily accessible resource is extremely helpful and insightful. Being in a Epidemiology and Biostatistics program, you would think that means spending my days making sense of numbers, laboring over R code and questioning my life choices when my models do not work. However, it turns out, being a scientist is much and far more than just running analyses. It is about writing before feeling ready just to have something, sharing your work (and code) and embracing the chaos that is the research process. But most importantly, being able to share your work with the world.
+
+Below are 3 main ideas that I particularly resonated with and personally find helpful from Jeff Leek's book.
+------------------------------------------------------------------------
+
+1.  Just start writing
+    1.  As a junior scientist still figuring out my own workflow process on writing, I always used to think that writing comes last at the end of a research project. However, I am beginning to realize and as Leek points out, it is better to start writing early, even when there have not been substantial results. It helps with thinking and helping one to see the bigger picture of the project. Additionally, having some fleshed out ideas and paragraphs is a much better starting point when you finally get to writing the paper versus a blank slate.
+    2.  What I aim to do now:
+        1.  Set up a draft as soon as I have an idea
+        2.  Make four decent figures first and then write a story around them
+        3.  Use simple words and less jargon (because science is confusing enough)
+2.  Code/Data should be reproducible and accessible
+    1.  When I first learned programming in my undergrad at UC Berkeley, my documentation and code scripts were admittedly not great. My future self often got confused on what my past self did, with a lack of documentation and messy coding conventions. As I progressed, I got better and now, I would say, that for the most part, an outsider should be able to mostly understand what I'm doing (assuming I've documented and explained everything well). In his book, Leek hammers home the importance of making code legible and reproducible.
+    2.  New habits I want to force myself into:
+        1.  Use GitHub to share my code
+        2.  Write clear comments and documentation
+        3.  Provide tidy data sets/codebook/READMEs
+3.  People should be able to understand your research
+    1.  Leek emphasizes the idea that science should be communicated well and that there is no point if your findings cannot be explained to someone. As a junior PhD student still navigating the learning process, imposter syndrome can be overwhelming at times, especially when reading papers that seem so dense and complex with jargon that it often feels inaccessible. Having clear, straightfoward writing would make it so much easier to share knowledge and help others, especially for those still learning like myself. Practicing such a skill would really useful and help to contribute to a culture where science is just less intimidating and more supportive.
+    2.  New approaches I am thinking of
+        1.  Don't use jargon unless absolutely necessary and explain any terms well
+        2.  Make plots readable
+        3.  Practice explaining research to non-scientists or getting more eyes on my work
+        4.  Keeping a personal website with my research and publications
+        
+------------------------------------------------------------------------
+
+## Final Thoughts
+
+Reading *How To Be A Modern Scientist* was definitely equal parts inspiring, but also mildly intimidating, but I do think it is a very good read and can serve as as a reality check for researchers in academia. I think the big takeaway here is that modern science is not just about getting results, it is about sharing them in meaningful and practical ways that can actually help people by fostering an inclusive environment. As a PhD student still figuring out my own research approach and process, these principles serve as a good reminder and keep me on my toes.
+
+
+![The writing process...](comic.png)
+

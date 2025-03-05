@@ -1,0 +1,17 @@
+---
+title: Projects
+---
+
+## Rotations
+
+-   Investigating interaction between haptoglobin structural variant and APOE alleles on Alzheimer's Disease in the Amish Community (Haines Lab)
+
+-   Assortative Mating: Implications for Genetic Studies and Complex Traits (Zhu Lab)
+
+-   Feedback loop dominance patterns (Hovmand Lab)
+
+------------------------------------------------------------------------
+
+::: {style="margin: 30px; text-align: center;"}
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+:::

@@ -1,0 +1,36 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/dana-jian
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.dzj2@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am Dana Jian, a current Epidemiology and Biostatistics PhD student in the Department of Population and Quantitative Health Sciences at Case Western Reserve University's School of Medicine. My lifelong fascination with scientific discovery and public health has driven my dedication to understanding complex diseases and population genetics. On this website, I offer an overview of my working experience, ongoing research, publications, accomplishments, blogs and future interests.
+
+During my undergraduate studies at UC Berkeley, I majored in Microbial Biology and minored in statistics. This experience allowed me to build a strong foundation in both biological sciences and quantitative analysis. My hands-on research experience ranged from developing viral detection tools for infectious diseases, testing the efficacy of wastewater treatments and computational analysis at USDA to researching bacteriophage-host interactions and dynamics in urban disease ecology systems to gain insights into virome-microbiome interactions, integrating biostatistics, epidemiology and microbial ecology principles in my work. In my senior year, I completed my honors research thesis: Bacteriopahges as microbial modulators: Interactions and impacts on a dual disease system in Callery Pear. These projects sharpened my technical skills in bioinformatics and biostatistics, solifidying my passion for using quantitative methods to address biological and ecological questions with public health relevance. However, I eventually found myself becoming more drawn to scientific questions pertaining to human and public health.
+
+Now, as a doctoral student, my research interests span population health and genetic epidemiology. My research interests center on understanding the genetic and environmental interactions that drive health outcomes on both individual and population levels. I have also become recently interested in system dynamics modeling, as it allows for a deep understanding of complex systems by representing the interconnectedness of variables, feedback loops and time delays. This can help unveil complex relationships that we see in the real world.
+
+
+On this website, you’ll find an overview of my academic journey, current research projects, blogs and future ambitions. My work is fueled by a commitment to bridging genetics and public health, and I am excited to continue exploring these connections through my doctoral research, as well as exploring other fields over the course of these next few years.
+
+Please feel free to [contact me](mailto:mail.dzj2@case.edu) if you have any questions or would like to discuss potential collaborations.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+

@@ -1,0 +1,51 @@
+---
+title: "Publications and Presentations"
+---
+
+# Education
+
+Bachelor of Science in Microbial Biology with Honors and a Minor in Statistics from UC Berkeley (2024)
+
+# Publications:
+
+D. Holtappels, S.A. Abelson, S.C. Nouth, G.E.J. Rickus, S.Z. Amare, J.P. Gille, *D.Z. Jian* and B. Koskella Genomic characterization of Pseudomonas syringae pv. syringae from Callery pear and the efficiency of associated phages in disease protection. BioRxiv. 2023
+
+Quintela, I. A., Vasse, T., Jian, D., Harrington, C., Sien, W., & Wu, V. C. Elucidating the Molecular Docking and Binding Dynamics of Aptamers with Spike Proteins Across SARS-CoV-2 Variants of Concern. Frontiers in Microbiology, 16, 1503890. 2025
+
+Jian, D., Quintela, I.A., Wu, Vivian C.H. Aptamer-Based Animal Diseases Diagnostics and Therapeutics 2025; Manuscript in Progress
+
+------------------------------------------------------------------------
+
+# Presentations:
+
++-----------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------------+-------------------+
+| Topic                                                                                                                 | Meeting                                                       | Year       | Place             |
++=======================================================================================================================+===============================================================+============+===================+
+| Bacteriophages as microbial modulators: Interactions and impacts on a dual disease system in Callery Pear             | Honors Research Symposium, University of California, Berkeley | May 2024   | Berkeley, CA      |
++-----------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------------+-------------------+
+| RCNR Advisory Board Student Experience Panel                                                                          | RCNR Advisory Board Meeting                                   | April 2024 | Berkeley, CA      |
++-----------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------------+-------------------+
+| Simulated spaceflight and downregulation of gene Ccl20 in response to radiation                                       | NASA Ames Research Center                                     | 2018       | Mountain View, CA |
++-----------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------------+-------------------+
+| The effect of wavelength on Chroococcidiopsis sp. and the probability of its survival in simulated Martian conditions | Intel International Science and Engineering Fair              | 2017       | Los Angeles, CA   |
++-----------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+------------+-------------------+
+
+------------------------------------------------------------------------
+
+# Awards and Grants:
+
++----------------------------------------------------------------------------------+------------+
+| **Topic**                                                                        | **Year**   |
++----------------------------------------------------------------------------------+------------+
+| SPUR Student-Initiated Project Grant of \$2000                                   | 2023       |
++----------------------------------------------------------------------------------+------------+
+| Intel International Science and Engineering Fair Finalist                        | 2017       |
+|                                                                                  |            |
+| -   NASA Second Place of \$750                                                   |            |
+|                                                                                  |            |
+| -   University of Arizona Tuition Scholarship Award                              |            |
++----------------------------------------------------------------------------------+------------+
+| Honorable Mention in Category at the California State Science Fair \| 2017       |            |
++----------------------------------------------------------------------------------+------------+
+| First Place in Biology Category at the Contra Costa Science and Engineering Fair | 2017       |
++----------------------------------------------------------------------------------+------------+
