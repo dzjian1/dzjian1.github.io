@@ -40,7 +40,7 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2024 Dana Jian </span>
+      <span class="faux-block">&#169; 2025 Dana Jian </span>
 
 project:
   type: website
